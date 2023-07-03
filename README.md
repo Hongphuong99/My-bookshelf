@@ -4,4 +4,6 @@
     + Chapter 12 (Decimation)
 3. Ndjountche, Tertulien - Data converters, phase-locked loops, and their applications (2019)
     + Chapter 5 (DS data converters)
-4. 
+4. Franco Maloberti - Data Converters (2007)
+    + Chapter 8
+5. 
