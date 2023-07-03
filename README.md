@@ -8,3 +8,4 @@
     + Chapter 8
 5. Marcel JM Pelgrom -Analog-to-Digital Conversion (2021)
    + Chapter 19
+6. Jacob Baker - CMOS Mixed-Signal Circuit Design, 2nd edition (2008)
