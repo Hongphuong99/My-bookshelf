@@ -6,4 +6,5 @@
     + Chapter 5 (DS data converters)
 4. Franco Maloberti - Data Converters (2007)
     + Chapter 8
-5. 
+5. Marcel JM Pelgrom -Analog-to-Digital Conversion (2021)
+   + Chapter 19
