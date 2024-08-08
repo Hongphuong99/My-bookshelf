@@ -9,4 +9,5 @@
     + Chapter 8
 6. Marcel JM Pelgrom -Analog-to-Digital Conversion (2021)
    + Chapter 19
-7. Ja
+7. R. Río, F. Medeiro, B. Pérez-Verdú, J. M. Rosa, Á. Rodríguez-Vázquez - CMOS Cascade Sigma-Delta Modulators for Sensors and Telecom (20006)
+   + Chapter 3, 4, 5 (example)
