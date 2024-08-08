@@ -11,3 +11,4 @@
    + Chapter 19
 7. R. Río, F. Medeiro, B. Pérez-Verdú, J. M. Rosa, Á. Rodríguez-Vázquez - CMOS Cascade Sigma-Delta Modulators for Sensors and Telecom (20006)
    + Chapter 3, 4, 5 (example)
+8. Rudy J. van de Plassche - CMOS Integrated Analog-to-Digital and Digital-to-Analog Converters-Springer (2003)
